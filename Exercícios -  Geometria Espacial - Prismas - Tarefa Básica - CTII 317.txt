@@ -1,0 +1,66 @@
+Tarefa Básica - Geometria Espacial - Prismas - Eduardo Lemos - CTII 317
+
+Ex 01.
+
+At = 4*3*x + 2*x²
+At = 80
+80 = 12*x + 2*x²
+
+x² + 6x - 40 = 0
+delta = 6² - 4*1*(-40) = 196
+x = (-6 +- 14)/2
+x' = -10m (Impossível)
+x'' = 4m
+
+Ex 02.
+
+V = Área da Base x Altura
+V = 24√3 x 2√3
+V = 48√3 cm²
+
+Ex 03.
+
+Se o raio do círculo que circunscreve a base é 2 e o raio tem a mesma medida de um lado do hexágono, r=l=2,e visto que é um hexágono regular, todas as seis arestas medem 2.
+Então, a área da face:
+Af = a.h > 2 . √3 = 2√3
+Área do lado:
+Al = 6.ah = 6 x 2√3 = 12√3
+Descobrindo a área da base do hexágono regular:
+Ab = 3 a² √3 / 2 > 3 . 2² √3 /2 = 6√3
+
+Logo, a área total:
+At = AL + 2. Ab
+At = 12√3 + 2 6√3
+At = 24√3 = Alternativa (B).
+ 
+
+Ex 04.
+
+Sabendo que:
+O volume de um prisma é o produto da área da base pela altura;
+
+E a área da base é a área de um trapézio de base maior, base menor e altura. Logo, pela fórmula da área de um trapézio e pelas informações da figura:
+
+(B+b).h/2 = (8+2).4/2 = 10.2 = 20 = Área da base do prisma.
+
+Se temos que a altura do prisma como 5, então o volume é: 20x5 = 100 m² = Alternativa (D).
+
+
+
+Ex 05.
+
+A área da base da cunha, sendo um triângulo com altura 15 cm e comprimento 10 cm, será calculado como:
+
+At = b.h/2 = 15.10/2 = 150/2 = 75 cm²
+
+Sendo a cunha um prisma de altura 10, seu volume será sua Base x Altura.
+
+V = At x h
+
+V = 75 x 10 = 750 cm³
+
+Ex 06.
+
+
+
+

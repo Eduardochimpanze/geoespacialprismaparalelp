@@ -1,0 +1,123 @@
+Tarefa Básica - Geometria Espacial - Paralelepípedos - Eduardo Lemos - CTII 317
+
+Ex 01.
+
+Comprimento = 51cm - 2x0,5cm = 50cm
+Largura = 26cm - 2x0,5cm = 25cm
+Altura = 12,5cm - 0,5cm = 12cm
+
+Então, as medidas internas da caixa são 50 cm x 25 cm x 12 cm.
+Para obter o volume em  precisamos converter cada medida para m dividindo-a por 100.
+0,50m x 0,25m x 0,12m = (0,5 x 0,25 x 0,12) = 0,015 m³ = Alternativa (A).
+
+Ex 02.
+
+A área total do cubo é igual a soma das áreas de todas as faces.
+
+Como as faces de um cubo são quadradas, então a fórmula da área total é:
+
+At = 6.x² (x = medida das arestas)
+
+Sendo a área total igual a 72 m², então temos que:
+
+72 = 6.x²
+
+x² = 12
+
+x = 2√3 m
+
+A diagonal do cubo é calculada pela fórmula:
+
+d = x√3
+
+Como x = 2√3, então:
+
+d = 2√3.√3
+
+d = 2.3
+
+d = 6m = Alternativa (B).
+
+Ex 03.
+
+Se o volume de um cubo é V = a³, só precisamos converter 50 cm para metros, descobrir o volume em m³ e converter para Litros.
+
+a = 50 cm/100 = 0,5 m
+
+V = a³ = 0,5³ = 0,125 m³
+
+Se 1 m³ = 1000L, teremos
+
+V = 0,125.1000 = 125l = Alternativa (A).
+
+Ex 04.
+
+a = 1m
+
+V = a³ = 1³ = 1m³ = 1000 L.
+
+V = 1000L - 1 Litro = 999 L
+
+Se 1000 L correspondem a 1m³, quantos metros cúbicos correspondem a 1L retirados da caixa?
+
+1000 L = 1m
+1L     = x
+
+x.1000L = 1m.1L 
+
+x = 1/1000 = 0,001 m³.
+
+
+Ex 05.
+
+V = a.b.c (c é a altura)
+
+c = V/a/b
+
+Dobrando as duas outras dimensões:
+
+2a.2b.c = x
+
+2a.2b.V/a/b = x
+
+2.2.V = x
+
+x = 4V = Alternativa (C).
+
+Ex 06.
+
+Primeiro calculamos o volume do cubo pois é igual ao volume do prisma, ficará:
+
+Área da Base (Ab)
+Área Lateral (Al)
+Altura (h)
+
+Volume do Cubo (Vc)
+Vc = L^3
+
+Vc = (4√3)^3
+Vc = 64.3√3
+Vc = 192√3
+
+Volume do Prisma Triangular (Vp)
+Vc = Ab.h
+
+Vc = h.(L^2.√3)/4
+192√3 = h.[(4√3)^2.√3]/4
+192√3 = h.(16.3√3)/4
+4.192√3 = h.48√3
+h = (4.192√3)/48√3
+h = 4.4
+h = 16
+
+Área Total do Prisma (Ap)
+Ap = 2.Ab + Al
+
+Ap = 2.[(4√3)^2.√3]/4 + 3.16.4√3
+Ap = 2.[(16.3).√3]/4 + 192√3
+Ap = 2.(48.√3)/4 + 192√3
+Ap = 2.12√3 + 192√3
+Ap = 24√3 + 192√3
+Ap = 216√3
+
+
